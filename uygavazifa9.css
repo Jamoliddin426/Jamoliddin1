@@ -1,0 +1,25 @@
+body{ 
+        margin: auto;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+form{
+    background-color: blueviolet;
+      border: 2px solid black; width: 700px;
+      margin: auto;
+      color: white;
+}
+button{
+    text-align: center;
+    margin: auto;
+}
+button {
+    display: inline-block;
+}
+
+.button-box {
+    text-align: center;
+    margin-top: 20px;
+}
